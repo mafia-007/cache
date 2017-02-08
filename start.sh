@@ -13,7 +13,7 @@ free -m
 echo "\033[38;5;034m
 ---------------------------------------
 ---------------------------------------
-   All cache ram and swp is cleared
+  All cache ram and swap is cleared
 
   https://github.com/mafia-007/cache
 ---------------------------------------
