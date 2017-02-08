@@ -1,4 +1,4 @@
-## clean cache ram and swp 
+## clean cache ram and swap 
 
 - git clone https://github.com/mafia-007/cache
 - cd cache
